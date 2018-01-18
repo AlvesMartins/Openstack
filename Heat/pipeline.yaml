@@ -1,0 +1,6 @@
+- name: cpu_source
+interval: 60
+meters:
+- "cpu"
+sinks:
+- cpu_sink
